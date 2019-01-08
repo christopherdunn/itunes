@@ -1,0 +1,33 @@
+.tile{
+  display: flex;
+  margin-top: .5rem;
+
+
+}
+.tile li:nth-child(even){
+   background-color: #F0F5F8;
+}
+.tile li:nth-child(odd){
+   background-color: white;
+}
+.listitems {
+  padding: 0 1rem;
+  width: 205px;
+  color: black;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow:ellipsis;
+
+}
+.listitems:hover {
+      text-overflow: clip;
+      white-space: normal;
+      word-break: break-word;
+
+
+  /* width: 100%;
+  height: 100%;
+  position: absolute;
+  top:5px;
+  overflow: visible; */
+}

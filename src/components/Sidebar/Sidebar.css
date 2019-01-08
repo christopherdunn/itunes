@@ -1,0 +1,16 @@
+.sidebar {
+  background-color: #D5D5D5;
+  height: 100%;
+  width: 100%;
+
+}
+
+.playlist-items {
+  padding: 0 1rem;
+  text-overflow: ellipsis;
+}
+
+.playlist-names {
+  padding: 0 1rem;
+  text-overflow: ellipsis;
+}

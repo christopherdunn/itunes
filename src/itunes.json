@@ -1,0 +1,2618 @@
+{
+feed: {
+title: "Top Songs",
+id: "https://rss.itunes.apple.com/api/v1/us/itunes-music/top-songs/all/100/explicit.json",
+author: {
+name: "iTunes Store",
+uri: "http://wwww.apple.com/us/itunes/"
+},
+links: [
+{
+self: "https://rss.itunes.apple.com/api/v1/us/itunes-music/top-songs/all/100/explicit.json"
+},
+{
+alternate: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34&popId=1&app=itunes"
+}
+],
+copyright: "Copyright © 2018 Apple Inc. All rights reserved.",
+country: "us",
+icon: "http://itunes.apple.com/favicon.ico",
+updated: "2018-11-18T01:51:42.000-08:00",
+results: [
+{
+artistName: "Halsey",
+id: "1437572583",
+releaseDate: "2018-10-04",
+name: "Without Me",
+collectionName: "Without Me - Single",
+kind: "song",
+copyright: "℗ 2018 Capitol Records, LLC",
+artistId: "324916925",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/halsey/324916925?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/bc/96/24/bc962458-3125-9794-66dc-ca65f180ebe6/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/without-me/1437572573?i=1437572583&app=itunes"
+},
+{
+artistName: "Lady Gaga & Bradley Cooper",
+id: "1434371887",
+releaseDate: "2018-10-05",
+name: "Shallow",
+collectionName: "A Star Is Born Soundtrack",
+kind: "song",
+copyright: "This Compilation ℗ 2018 Interscope Records",
+artistId: "277293880",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=277293880-300300595&app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/91/d6/3791d62a-4147-3b1e-23fb-e5cbdd27a785/source/200x200bb.png",
+genres: [
+{
+genreId: "16",
+name: "Soundtrack",
+url: "https://itunes.apple.com/us/genre/id16"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/shallow/1434371867?i=1434371887&app=itunes"
+},
+{
+artistName: "Panic! At the Disco",
+id: "1361152303",
+releaseDate: "2018-06-22",
+name: "High Hopes",
+collectionName: "Pray For the Wicked",
+kind: "song",
+copyright: "℗ 2018 Fueled By Ramen LLC for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+artistId: "80456331",
+artistUrl: "https://itunes.apple.com/us/artist/panic-at-the-disco/80456331?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/61/80/7c/61807c8e-953b-390e-93f8-9d16f04e1094/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/high-hopes/1361152002?i=1361152303&app=itunes"
+},
+{
+artistName: "Ariana Grande",
+id: "1441178213",
+releaseDate: "2018-11-03",
+name: "thank u, next",
+collectionName: "thank u, next - Single",
+kind: "song",
+copyright: "℗ 2018 Republic Records, a Division of UMG Recordings, Inc.",
+artistId: "412778295",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/ariana-grande/412778295?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/3a/66/ea/3a66ea98-15db-df35-0245-e614df1c72e9/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/thank-u-next/1441178207?i=1441178213&app=itunes"
+},
+{
+artistName: "Marshmello & Bastille",
+id: "1424704480",
+releaseDate: "2018-08-17",
+name: "Happier",
+collectionName: "Happier - Single",
+kind: "song",
+copyright: "Astralwerks; ℗ 2018 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
+artistId: "980795202",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=980795202-420203509&app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/8b/39/c4/8b39c4c8-f28d-2951-b787-e4db2f7b97b4/source/200x200bb.png",
+genres: [
+{
+genreId: "17",
+name: "Dance",
+url: "https://itunes.apple.com/us/genre/id17"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/happier/1424703172?i=1424704480&app=itunes"
+},
+{
+artistName: "Imagine Dragons",
+id: "1437948973",
+releaseDate: "2018-07-16",
+name: "Natural",
+collectionName: "Origins (Deluxe)",
+kind: "song",
+copyright: "℗ 2018 KIDinaKORNER/Interscope Records",
+artistId: "358714030",
+artistUrl: "https://itunes.apple.com/us/artist/imagine-dragons/358714030?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/82/47/cc/8247cc3a-4a2b-8383-cd12-0ea2ff5747dd/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/natural/1437948883?i=1437948973&app=itunes"
+},
+{
+artistName: "Luke Combs",
+id: "1376707081",
+releaseDate: "2018-06-01",
+name: "She Got the Best of Me",
+collectionName: "This One’s for You Too (Deluxe Edition)",
+kind: "song",
+copyright: "℗ 2018 River House Artists LLC, under exclusive license to Sony Music Entertainment",
+artistId: "815635315",
+artistUrl: "https://itunes.apple.com/us/artist/luke-combs/815635315?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/bd/7f/60/bd7f605f-a838-7427-8679-9b47812f41ab/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/she-got-the-best-of-me/1376705241?i=1376707081&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648449",
+releaseDate: "1975-10-31",
+name: "Bohemian Rhapsody",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/bohemian-rhapsody/932648190?i=932648449&app=itunes"
+},
+{
+artistName: "Hozier",
+id: "1440814501",
+releaseDate: "2018-11-14",
+name: "Movement",
+collectionName: "Movement - Single",
+kind: "song",
+copyright: "℗ 2018 Rubyworks Ltd., under license to Columbia Records, a Division of Sony Music Entertainment",
+artistId: "342260741",
+artistUrl: "https://itunes.apple.com/us/artist/hozier/342260741?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ef/74/c3/ef74c372-425b-2bd8-fe9d-8bb25232ad9b/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/movement/1440814500?i=1440814501&app=itunes"
+},
+{
+artistName: "Travis Scott",
+id: "1421242781",
+releaseDate: "2018-08-03",
+name: "SICKO MODE",
+collectionName: "ASTROWORLD",
+kind: "song",
+copyright: "℗ 2018 Epic Records, a division of Sony Music Entertainment. With Cactus Jack and Grand Hustle.",
+artistId: "549236696",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/travis-scott/549236696?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/79/bc/23/79bc230d-506a-302b-4790-38a5fe7bdc1f/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/sicko-mode/1421241217?i=1421242781&app=itunes"
+},
+{
+artistName: "Dan + Shay",
+id: "1383989668",
+releaseDate: "2018-05-18",
+name: "Speechless",
+collectionName: "Dan + Shay",
+kind: "song",
+copyright: "℗ 2018 Warner Music Nashville LLC for the U.S. and WEA International Inc. for the world outside the U.S.",
+artistId: "690319057",
+artistUrl: "https://itunes.apple.com/us/artist/dan-shay/690319057?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/cb/9c/e8/cb9ce826-c036-2b60-3857-1d646e254754/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/speechless/1383989073?i=1383989668&app=itunes"
+},
+{
+artistName: "P!nk",
+id: "1439343348",
+releaseDate: "2017-12-08",
+name: "A Million Dreams",
+collectionName: "The Greatest Showman: Reimagined",
+kind: "song",
+copyright: "℗ 2018 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2018 Twentieth Century Fox Film Corporation.",
+artistId: "4488522",
+artistUrl: "https://itunes.apple.com/us/artist/p-nk/4488522?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/03/49/c3/0349c337-c8d0-42d1-4f94-01a4e97fc533/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/a-million-dreams/1439343342?i=1439343348&app=itunes"
+},
+{
+artistName: "5 Seconds of Summer",
+id: "1369109322",
+releaseDate: "2018-04-13",
+name: "Youngblood",
+collectionName: "Youngblood (Deluxe)",
+kind: "song",
+copyright: "A Capitol Records UK release; ℗ 2018 One Mode Productions Limited, under exclusive licence to Universal Music Operations Limited",
+artistId: "538811449",
+artistUrl: "https://itunes.apple.com/us/artist/5-seconds-of-summer/538811449?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/91/ff/60/91ff6033-6326-a170-375b-bfcadcfb4a72/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/youngblood/1369109074?i=1369109322&app=itunes"
+},
+{
+artistName: "Lady Gaga",
+id: "1434372043",
+releaseDate: "2018-10-05",
+name: "Always Remember Us This Way",
+collectionName: "A Star Is Born Soundtrack",
+kind: "song",
+copyright: "This Compilation ℗ 2018 Interscope Records",
+artistId: "277293880",
+artistUrl: "https://itunes.apple.com/us/artist/lady-gaga/277293880?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/91/d6/3791d62a-4147-3b1e-23fb-e5cbdd27a785/source/200x200bb.png",
+genres: [
+{
+genreId: "16",
+name: "Soundtrack",
+url: "https://itunes.apple.com/us/genre/id16"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/always-remember-us-this-way/1434371867?i=1434372043&app=itunes"
+},
+{
+artistName: "Dan + Shay",
+id: "1383989661",
+releaseDate: "2018-01-10",
+name: "Tequila",
+collectionName: "Dan + Shay",
+kind: "song",
+copyright: "℗ 2018 Warner Music Nashville LLC for the U.S. and WEA International Inc. for the world outside the U.S.",
+artistId: "690319057",
+artistUrl: "https://itunes.apple.com/us/artist/dan-shay/690319057?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/cb/9c/e8/cb9ce826-c036-2b60-3857-1d646e254754/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/tequila/1383989073?i=1383989661&app=itunes"
+},
+{
+artistName: "benny blanco, Halsey & Khalid",
+id: "1405952327",
+releaseDate: "2018-07-13",
+name: "Eastside",
+collectionName: "Eastside - Single",
+kind: "song",
+copyright: "℗ 2018 Friends Keep Secrets/Interscope Records",
+artistId: "1410841257",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1410841257-324916925-82842423&app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/16/63/75/1663755a-545d-5ca2-6862-c8a8459f0701/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/eastside/1405952326?i=1405952327&app=itunes"
+},
+{
+artistName: "ZAYN",
+id: "1442328273",
+releaseDate: "2018-11-15",
+name: "No Candle No Light (feat. Nicki Minaj)",
+collectionName: "No Candle No Light (feat. Nicki Minaj) - Single",
+kind: "song",
+copyright: "℗ 2018 RCA Records, a division of Sony Music Entertainment",
+artistId: "973181994",
+artistUrl: "https://itunes.apple.com/us/artist/zayn/973181994?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/8d/27/0b/8d270bab-279d-10df-d1d3-e3f68d93bbb7/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/no-candle-no-light-feat-nicki-minaj/1442328262?i=1442328273&app=itunes"
+},
+{
+artistName: "Post Malone & Swae Lee",
+id: "1439090295",
+releaseDate: "2018-10-18",
+name: "Sunflower (Spider-Man: Into the Spider-Verse)",
+collectionName: "Sunflower (Spider-Man: Into the Spider-Verse) - Single",
+kind: "song",
+copyright: "This Compilation ℗ 2018 Republic Records, a division of UMG Recordings, Inc.",
+artistId: "966309175",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=966309175-922547500&app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/e6/43/fe/e643fe0f-faa2-6141-c8da-c011eecc452e/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/sunflower-spider-man-into-the-spider-verse/1439090291?i=1439090295&app=itunes"
+},
+{
+artistName: "James Arthur & Anne-Marie",
+id: "1439343414",
+releaseDate: "2017-12-08",
+name: "Rewrite the Stars",
+collectionName: "The Greatest Showman: Reimagined",
+kind: "song",
+copyright: "℗ 2018 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2018 Twentieth Century Fox Film Corporation.",
+artistId: "193502798",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=193502798-474724108&app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/03/49/c3/0349c337-c8d0-42d1-4f94-01a4e97fc533/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/rewrite-the-stars/1439343342?i=1439343414&app=itunes"
+},
+{
+artistName: "City Girls",
+id: "1442388963",
+releaseDate: "2018-11-16",
+name: "Twerk (feat. Cardi B)",
+collectionName: "Girl Code",
+kind: "song",
+copyright: "Quality Control Music/Motown Records/Capitol Records; ℗ 2018 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+artistId: "42052432",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/city-girls/42052432?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/3e/a7/78/3ea778f0-ebba-ce87-7376-44a5aa81542d/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/twerk-feat-cardi-b/1442388641?i=1442388963&app=itunes"
+},
+{
+artistName: "Sheck Wes",
+id: "1339828402",
+releaseDate: "2017-06-16",
+name: "Mo Bamba",
+collectionName: "Mo Bamba - Single",
+kind: "song",
+copyright: "A Cactus Jack Records/ G.O.O.D. Music/ Interscope Records Release;℗2018 Interscope Records",
+artistId: "1282207196",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/sheck-wes/1282207196?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/ea/97/07/ea9707bb-3b59-db4b-e559-1374b5042674/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/mo-bamba/1339828047?i=1339828402&app=itunes"
+},
+{
+artistName: "Kelsea Ballerini",
+id: "1268028562",
+releaseDate: "2017-11-03",
+name: "Miss Me More",
+collectionName: "Unapologetically",
+kind: "song",
+copyright: "℗ 2017 Black River Entertainment, LLC",
+artistId: "382270241",
+artistUrl: "https://itunes.apple.com/us/artist/kelsea-ballerini/382270241?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/8d/79/08/8d7908b3-6e42-59d7-875e-ce7cac0ca1f7/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+},
+{
+genreId: "1037",
+name: "Contemporary Country",
+url: "https://itunes.apple.com/us/genre/id1037"
+},
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "1039",
+name: "Honky Tonk",
+url: "https://itunes.apple.com/us/genre/id1039"
+}
+],
+url: "https://itunes.apple.com/us/album/miss-me-more/1268028559?i=1268028562&app=itunes"
+},
+{
+artistName: "Chris Stapleton",
+id: "1222152235",
+releaseDate: "2017-05-05",
+name: "Broken Halos",
+collectionName: "From A Room, Volume 1",
+kind: "song",
+copyright: "℗ 2017 Mercury Records, a Division of UMG Recordings, Inc.",
+artistId: "1752134",
+artistUrl: "https://itunes.apple.com/us/artist/chris-stapleton/1752134?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music111/v4/f9/ce/4a/f9ce4a1c-6a7d-7520-5902-940fb7daafaf/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/broken-halos/1222152230?i=1222152235&app=itunes"
+},
+{
+artistName: "Lauren Daigle",
+id: "1409149756",
+releaseDate: "2018-07-13",
+name: "You Say",
+collectionName: "Look Up Child",
+kind: "song",
+copyright: "℗ 2018 Centricity Music",
+artistId: "722177758",
+artistUrl: "https://itunes.apple.com/us/artist/lauren-daigle/722177758?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/74/d8/ce/74d8ce93-6466-ef3e-fed4-a4d15def603d/source/200x200bb.png",
+genres: [
+{
+genreId: "22",
+name: "Christian & Gospel",
+url: "https://itunes.apple.com/us/genre/id22"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/you-say/1409149359?i=1409149756&app=itunes"
+},
+{
+artistName: "Dierks Bentley",
+id: "1369348544",
+releaseDate: "2018-06-08",
+name: "Burning Man (feat. Brothers Osborne)",
+collectionName: "The Mountain",
+kind: "song",
+copyright: "A Capitol Records Nashville Release; ℗ 2018 Dierks Bentley, under exclusive license to UMG Recordings, Inc.",
+artistId: "3088872",
+artistUrl: "https://itunes.apple.com/us/artist/dierks-bentley/3088872?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/6f/60/d4/6f60d458-9cf8-c52a-fe8f-585416eb6407/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/burning-man-feat-brothers-osborne/1369348197?i=1369348544&app=itunes"
+},
+{
+artistName: "DJ Snake",
+id: "1436781869",
+releaseDate: "2018-09-28",
+name: "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+collectionName: "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B) - Single",
+kind: "song",
+copyright: "℗ 2018 DJ Snake Music, under exclusive license to Geffen Records",
+artistId: "125742557",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/dj-snake/125742557?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/37/b1/05/37b1059f-ce45-9581-cb08-3ccf3a5d6386/source/200x200bb.png",
+genres: [
+{
+genreId: "17",
+name: "Dance",
+url: "https://itunes.apple.com/us/genre/id17"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+},
+{
+genreId: "12",
+name: "Latino",
+url: "https://itunes.apple.com/us/genre/id12"
+}
+],
+url: "https://itunes.apple.com/us/album/taki-taki-feat-selena-gomez-ozuna-cardi-b/1436781851?i=1436781869&app=itunes"
+},
+{
+artistName: "Juice WRLD",
+id: "1407165118",
+releaseDate: "2017-06-15",
+name: "Lucid Dreams",
+collectionName: "Goodbye & Good Riddance",
+kind: "song",
+copyright: "℗ 2018 Grade A Productions, LLC, distributed by Interscope Records",
+artistId: "1368733420",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/juice-wrld/1368733420?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/69/d1/c8/69d1c853-5072-1108-9203-58c8a4e23fd2/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/lucid-dreams/1407165109?i=1407165118&app=itunes"
+},
+{
+artistName: "Ariana Grande",
+id: "1399202958",
+releaseDate: "2018-08-17",
+name: "breathin",
+collectionName: "Sweetener",
+kind: "song",
+copyright: "℗ 2018 Republic Records, a Division of UMG Recordings, Inc.",
+artistId: "412778295",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/ariana-grande/412778295?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/eb/45/1d/eb451db3-53c9-5ba5-ba44-b059be004d29/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/breathin/1399202539?i=1399202958&app=itunes"
+},
+{
+artistName: "Normani & 6LACK",
+id: "1442146056",
+releaseDate: "2018-11-14",
+name: "Waves",
+collectionName: "Waves - Single",
+kind: "song",
+copyright: "℗ 2018 Keep Cool/RCA Records",
+artistId: "1351375726",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1351375726-1016633280&app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/ec/47/78/ec477886-e80f-b5a0-0912-12b0b8b73f58/source/200x200bb.png",
+genres: [
+{
+genreId: "15",
+name: "R&B/Soul",
+url: "https://itunes.apple.com/us/genre/id15"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/waves/1442146055?i=1442146056&app=itunes"
+},
+{
+artistName: "The Chainsmokers",
+id: "1441800802",
+releaseDate: "2018-11-16",
+name: "Beach House",
+collectionName: "Beach House - Single",
+kind: "song",
+copyright: "℗ 2018 Disruptor Records/Columbia Records",
+artistId: "580391756",
+artistUrl: "https://itunes.apple.com/us/artist/the-chainsmokers/580391756?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/2c/0e/b2/2c0eb244-a74e-9589-d9d9-d49f34923097/source/200x200bb.png",
+genres: [
+{
+genreId: "17",
+name: "Dance",
+url: "https://itunes.apple.com/us/genre/id17"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/beach-house/1441800801?i=1441800802&app=itunes"
+},
+{
+artistName: "Mariah Carey",
+id: "585972803",
+releaseDate: "1994-10-29",
+name: "All I Want For Christmas Is You",
+collectionName: "Merry Christmas",
+kind: "song",
+copyright: "℗ 1994 Sony Music Entertainment",
+artistId: "91853",
+artistUrl: "https://itunes.apple.com/us/artist/mariah-carey/91853?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music4/v4/f7/04/0c/f7040cc4-be4a-8935-094e-a3e9c23eb6b2/source/200x200bb.png",
+genres: [
+{
+genreId: "8",
+name: "Holiday",
+url: "https://itunes.apple.com/us/genre/id8"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+},
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "1080",
+name: "Christmas",
+url: "https://itunes.apple.com/us/genre/id1080"
+},
+{
+genreId: "17",
+name: "Dance",
+url: "https://itunes.apple.com/us/genre/id17"
+},
+{
+genreId: "15",
+name: "R&B/Soul",
+url: "https://itunes.apple.com/us/genre/id15"
+},
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "1131",
+name: "Adult Contemporary",
+url: "https://itunes.apple.com/us/genre/id1131"
+},
+{
+genreId: "1136",
+name: "Contemporary R&B",
+url: "https://itunes.apple.com/us/genre/id1136"
+}
+],
+url: "https://itunes.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803&app=itunes"
+},
+{
+artistName: "Keith Urban",
+id: "1367710639",
+releaseDate: "2018-04-27",
+name: "Never Comin Down",
+collectionName: "Graffiti U",
+kind: "song",
+copyright: "A Hit Red Records/Capitol Records Nashville Release; ℗ 2018 Hit Red Records, under exclusive license to UMG Recordings, Inc.",
+artistId: "549836",
+artistUrl: "https://itunes.apple.com/us/artist/keith-urban/549836?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music62/v4/44/e9/40/44e940d2-b43e-cc65-6cc0-bd417b2d6d80/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/never-comin-down/1367710388?i=1367710639&app=itunes"
+},
+{
+artistName: "Maroon 5",
+id: "1381589780",
+releaseDate: "2018-05-30",
+name: "Girls Like You (feat. Cardi B)",
+collectionName: "Girls Like You (feat. Cardi B) - Single",
+kind: "song",
+copyright: "℗ 2018 Interscope Records (222 Records)",
+artistId: "1798556",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/maroon-5/1798556?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/a4/79/e7/a479e75e-42a2-45f5-2d88-c743c9f4535c/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/girls-like-you-feat-cardi-b/1381588297?i=1381589780&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648779",
+releaseDate: "1977-10-07",
+name: "We Will Rock You",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/we-will-rock-you/932648190?i=932648779&app=itunes"
+},
+{
+artistName: "Cardi B",
+id: "1439777400",
+releaseDate: "2018-10-21",
+name: "Money",
+collectionName: "Money - Single",
+kind: "song",
+copyright: "℗ 2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company.",
+artistId: "956078923",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/cardi-b/956078923?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/a5/f4/a8/a5f4a810-8a97-494c-471b-fb979529dc38/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/money/1439777399?i=1439777400&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648807",
+releaseDate: "1984-02-27",
+name: "Radio Ga Ga",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/radio-ga-ga/932648190?i=932648807&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648686",
+releaseDate: "1976-11-12",
+name: "Somebody to Love",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/somebody-to-love/932648190?i=932648686&app=itunes"
+},
+{
+artistName: "Halsey",
+id: "1437575238",
+releaseDate: "2018-10-04",
+name: "Without Me",
+collectionName: "Without Me - Single",
+kind: "song",
+copyright: "℗ 2018 Capitol Records, LLC",
+artistId: "324916925",
+artistUrl: "https://itunes.apple.com/us/artist/halsey/324916925?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/d9/25/06/d9250624-1a96-2f16-3095-eb5a93ff65db/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/without-me/1437575234?i=1437575238&app=itunes"
+},
+{
+artistName: "Chris Stapleton",
+id: "980335925",
+releaseDate: "2015-04-28",
+name: "Tennessee Whiskey",
+collectionName: "Traveller",
+kind: "song",
+copyright: "℗ 2015 Mercury Records, a Division of UMG Recordings, Inc.",
+artistId: "1752134",
+artistUrl: "https://itunes.apple.com/us/artist/chris-stapleton/1752134?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music3/v4/6f/2d/aa/6f2daac9-438b-742e-0c0e-49f4286b3179/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/tennessee-whiskey/980334914?i=980335925&app=itunes"
+},
+{
+artistName: "Zac Brown Band",
+id: "1439343423",
+releaseDate: "2017-12-08",
+name: "From Now On",
+collectionName: "The Greatest Showman: Reimagined",
+kind: "song",
+copyright: "℗ 2018 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2018 Twentieth Century Fox Film Corporation.",
+artistId: "129045039",
+artistUrl: "https://itunes.apple.com/us/artist/zac-brown-band/129045039?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/03/49/c3/0349c337-c8d0-42d1-4f94-01a4e97fc533/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/from-now-on/1439343342?i=1439343423&app=itunes"
+},
+{
+artistName: "Brett Young",
+id: "1193398514",
+releaseDate: "2017-02-10",
+name: "Mercy",
+collectionName: "Brett Young",
+kind: "song",
+copyright: "℗ 2017 Big Machine Label Group, LLC",
+artistId: "1084576956",
+artistUrl: "https://itunes.apple.com/us/artist/brett-young/1084576956?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/e2/16/e3/e216e3db-3444-2768-9d15-ddf765745a5a/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/mercy/1193398437?i=1193398514&app=itunes"
+},
+{
+artistName: "Panic! At the Disco",
+id: "1439343343",
+releaseDate: "2017-12-08",
+name: "The Greatest Show",
+collectionName: "The Greatest Showman: Reimagined",
+kind: "song",
+copyright: "℗ 2018 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2018 Twentieth Century Fox Film Corporation.",
+artistId: "80456331",
+artistUrl: "https://itunes.apple.com/us/artist/panic-at-the-disco/80456331?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/03/49/c3/0349c337-c8d0-42d1-4f94-01a4e97fc533/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/the-greatest-show/1439343342?i=1439343343&app=itunes"
+},
+{
+artistName: "Post Malone",
+id: "1373517313",
+releaseDate: "2018-04-27",
+name: "Better Now",
+collectionName: "beerbongs & bentleys",
+kind: "song",
+copyright: "℗ 2018 Republic Records, a division of UMG Recordings, Inc.",
+artistId: "966309175",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/post-malone/966309175?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/41/c0/1a/41c01a78-cdfa-0c06-4b9b-8e00bf07aaad/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/better-now/1373516902?i=1373517313&app=itunes"
+},
+{
+artistName: "Bebe Rexha & Florida Georgia Line",
+id: "1251713725",
+releaseDate: "2017-08-11",
+name: "Meant to Be",
+collectionName: "All Your Fault, Pt. 2 - EP",
+kind: "song",
+copyright: "℗ 2017 Warner Bros. Records Inc.",
+artistId: "466059563",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=466059563-399241518&app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/65/c7/d0/65c7d06b-58ab-8455-6c30-7fe91b6ef827/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/meant-to-be/1251713683?i=1251713725&app=itunes"
+},
+{
+artistName: "Kane Brown",
+id: "1434750233",
+releaseDate: "2018-06-07",
+name: "Lose It",
+collectionName: "Experiment",
+kind: "song",
+copyright: "℗ 2018 Sony Music Entertainment",
+artistId: "930928857",
+artistUrl: "https://itunes.apple.com/us/artist/kane-brown/930928857?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/5f/8e/b8/5f8eb801-e3b6-b3c7-8564-b12cc2f849e3/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/lose-it/1434750138?i=1434750233&app=itunes"
+},
+{
+artistName: "Kelly Clarkson",
+id: "1439343409",
+releaseDate: "2018-11-16",
+name: "Never Enough",
+collectionName: "The Greatest Showman: Reimagined",
+kind: "song",
+copyright: "℗ 2018 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2018 Twentieth Century Fox Film Corporation.",
+artistId: "316265",
+artistUrl: "https://itunes.apple.com/us/artist/kelly-clarkson/316265?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/03/49/c3/0349c337-c8d0-42d1-4f94-01a4e97fc533/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/never-enough/1439343342?i=1439343409&app=itunes"
+},
+{
+artistName: "Kodak Black",
+id: "1438652331",
+releaseDate: "2018-10-11",
+name: "ZEZE (feat. Travis Scott & Offset)",
+collectionName: "ZEZE (feat. Travis Scott & Offset) - Single",
+kind: "song",
+copyright: "℗ 2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside the United States.",
+artistId: "953921140",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/kodak-black/953921140?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/35/c3/13/35c313cf-d82f-8bd5-10e7-706dedf69045/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/zeze-feat-travis-scott-offset/1438652330?i=1438652331&app=itunes"
+},
+{
+artistName: "Gucci Mane, Bruno Mars & Kodak Black",
+id: "1436076396",
+releaseDate: "2018-09-14",
+name: "Wake Up in the Sky",
+collectionName: "Wake Up in the Sky - Single",
+kind: "song",
+copyright: "℗ 2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+artistId: "62374520",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=62374520-278873078-953921140&app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/0a/c1/5d/0ac15dfb-51d9-b487-2504-77c7fd52d879/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/wake-up-in-the-sky/1436076387?i=1436076396&app=itunes"
+},
+{
+artistName: "Jake Owen",
+id: "1440110972",
+releaseDate: "2018-08-07",
+name: "Down To the Honkytonk",
+collectionName: "Down To the Honkytonk - Single",
+kind: "song",
+copyright: "℗ 2018 Big Loud Records",
+artistId: "128412737",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/jake-owen/128412737?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/90/99/62/90996278-261b-1f1d-1346-3fd386068c3f/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/down-to-the-honkytonk/1440110971?i=1440110972&app=itunes"
+},
+{
+artistName: "Billie Eilish",
+id: "1438144676",
+releaseDate: "2018-10-17",
+name: "when the party's over",
+collectionName: "when the party's over - Single",
+kind: "song",
+copyright: "℗ 2018 Darkroom/Interscope Records",
+artistId: "1065981054",
+artistUrl: "https://itunes.apple.com/us/artist/billie-eilish/1065981054?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/17/78/ad/1778adb0-9ea7-3ef3-e58f-daf6b98addda/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/when-the-partys-over/1438144672?i=1438144676&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648782",
+releaseDate: "1977-10-07",
+name: "We Are the Champions",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/we-are-the-champions/932648190?i=932648782&app=itunes"
+},
+{
+artistName: "Carrie Underwood",
+id: "1432046861",
+releaseDate: "2018-08-31",
+name: "Love Wins",
+collectionName: "Cry Pretty",
+kind: "song",
+copyright: "A Capitol Records Nashville Release; ℗ 2018 UMG Recordings, Inc.",
+artistId: "63399334",
+artistUrl: "https://itunes.apple.com/us/artist/carrie-underwood/63399334?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/b9/db/0d/b9db0dbf-eea3-2bae-d52c-7c50bd89a1e9/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/love-wins/1432044881?i=1432046861&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648493",
+releaseDate: "1980-06-30",
+name: "Another One Bites the Dust",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/another-one-bites-the-dust/932648190?i=932648493&app=itunes"
+},
+{
+artistName: "Lil Wayne",
+id: "1437592171",
+releaseDate: "2018-09-28",
+name: "Uproar",
+collectionName: "Tha Carter V",
+kind: "song",
+copyright: "℗ 2018 Young Money Records, Inc.",
+artistId: "5869117",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/lil-wayne/5869117?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/92/da/dd/92dadd83-f9d2-3dde-b0b6-970611c36abe/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/uproar/1437591818?i=1437592171&app=itunes"
+},
+{
+artistName: "Bazzi",
+id: "1419758422",
+releaseDate: "2018-08-02",
+name: "Beautiful (feat. Camila Cabello)",
+collectionName: "Beautiful (feat. Camila Cabello) - Single",
+kind: "song",
+copyright: "℗ 2018",
+artistId: "800263205",
+artistUrl: "https://itunes.apple.com/us/artist/bazzi/800263205?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/08/0d/8d/080d8d0b-ba19-9bb0-af40-6c0466823e34/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/beautiful-feat-camila-cabello/1419758421?i=1419758422&app=itunes"
+},
+{
+artistName: "Mitchell Tenpenny",
+id: "1438028675",
+releaseDate: "2018-10-10",
+name: "Drunk Me",
+collectionName: "Telling All My Secrets",
+kind: "song",
+copyright: "℗ 2018 Riser House Entertainment, LLC, under exclusive license to Sony Music Entertainment. All rights reserved.",
+artistId: "430369368",
+artistUrl: "https://itunes.apple.com/us/artist/mitchell-tenpenny/430369368?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/4d/0f/78/4d0f784c-8b8c-0035-cb34-7fde1adec973/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/drunk-me/1438028596?i=1438028675&app=itunes"
+},
+{
+artistName: "Ella Mai",
+id: "1436555518",
+releaseDate: "2018-08-03",
+name: "Trip",
+collectionName: "Ella Mai",
+kind: "song",
+copyright: "A 10 Summers/Interscope Records Release; ℗ 2018 10 Summers Records, LLC",
+artistId: "1160482144",
+artistUrl: "https://itunes.apple.com/us/artist/ella-mai/1160482144?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/9f/78/23/9f7823c3-ac90-ac7d-98a0-5c0e6fd1f28e/source/200x200bb.png",
+genres: [
+{
+genreId: "15",
+name: "R&B/Soul",
+url: "https://itunes.apple.com/us/genre/id15"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/trip/1436555269?i=1436555518&app=itunes"
+},
+{
+artistName: "Eric Church",
+id: "1410702838",
+releaseDate: "2018-07-13",
+name: "Desperate Man",
+collectionName: "Desperate Man",
+kind: "song",
+copyright: "An EMI Records Nashville Release; ℗ 2018 UMG Recordings, Inc.",
+artistId: "123055194",
+artistUrl: "https://itunes.apple.com/us/artist/eric-church/123055194?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/41/b8/55/41b855a8-d147-2db6-a83a-9c0259134c49/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/desperate-man/1410701556?i=1410702838&app=itunes"
+},
+{
+artistName: "Jimmie Allen",
+id: "1435146551",
+releaseDate: "2017-10-06",
+name: "Best Shot",
+collectionName: "Mercury Lane",
+kind: "song",
+copyright: "℗ 2018 This Is Hit, Inc. d/b/a Stoney Creek Records",
+artistId: "342641615",
+artistUrl: "https://itunes.apple.com/us/artist/jimmie-allen/342641615?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/1b/04/75/1b0475b3-6f66-ca7f-e652-1c398b212c86/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/best-shot/1435145919?i=1435146551&app=itunes"
+},
+{
+artistName: "Dean Lewis",
+id: "1400596082",
+releaseDate: "2018-06-29",
+name: "Be Alright",
+collectionName: "Be Alright - Single",
+kind: "song",
+copyright: "An Island Records Australia release; ℗ 2018 Universal Music Australia Pty Ltd.",
+artistId: "779085108",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/dean-lewis/779085108?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/71/4e/f6/714ef600-2f42-2672-498b-0bb9a74ae2e3/source/200x200bb.png",
+genres: [
+{
+genreId: "10",
+name: "Singer/Songwriter",
+url: "https://itunes.apple.com/us/genre/id10"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/be-alright/1400595841?i=1400596082&app=itunes"
+},
+{
+artistName: "Lady Gaga",
+id: "1434372132",
+releaseDate: "2018-10-05",
+name: "I'll Never Love Again (Extended Version)",
+collectionName: "A Star Is Born Soundtrack",
+kind: "song",
+copyright: "This Compilation ℗ 2018 Interscope Records",
+artistId: "277293880",
+artistUrl: "https://itunes.apple.com/us/artist/lady-gaga/277293880?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/91/d6/3791d62a-4147-3b1e-23fb-e5cbdd27a785/source/200x200bb.png",
+genres: [
+{
+genreId: "16",
+name: "Soundtrack",
+url: "https://itunes.apple.com/us/genre/id16"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/ill-never-love-again-extended-version/1434371867?i=1434372132&app=itunes"
+},
+{
+artistName: "Bad Bunny",
+id: "1438445674",
+releaseDate: "2018-10-11",
+name: "MIA (feat. Drake)",
+collectionName: "MIA (feat. Drake) - Single",
+kind: "song",
+copyright: "℗ 2018 OVO Sound/Rimas Entertainment LLC/Warner Bros. Records Inc.",
+artistId: "1126808565",
+artistUrl: "https://itunes.apple.com/us/artist/bad-bunny/1126808565?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/0f/a9/a2/0fa9a283-9adb-dccd-d417-d459773e8df0/source/200x200bb.png",
+genres: [
+{
+genreId: "12",
+name: "Latino",
+url: "https://itunes.apple.com/us/genre/id12"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+},
+{
+genreId: "1119",
+name: "Urbano latino",
+url: "https://itunes.apple.com/us/genre/id1119"
+}
+],
+url: "https://itunes.apple.com/us/album/mia-feat-drake/1438445670?i=1438445674&app=itunes"
+},
+{
+artistName: "Kacey Musgraves",
+id: "1350091549",
+releaseDate: "2018-03-30",
+name: "Slow Burn",
+collectionName: "Golden Hour",
+kind: "song",
+copyright: "A MCA Nashville Release;℗2018 UMG Recordings, Inc.",
+artistId: "466044182",
+artistUrl: "https://itunes.apple.com/us/artist/kacey-musgraves/466044182?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music62/v4/71/ac/40/71ac40e1-5d14-ffe8-08a6-21f6939560c2/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/slow-burn/1350091548?i=1350091549&app=itunes"
+},
+{
+artistName: "Queen & David Bowie",
+id: "932648796",
+releaseDate: "1981-10-26",
+name: "Under Pressure",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=3296287-551695&app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/under-pressure/932648190?i=932648796&app=itunes"
+},
+{
+artistName: "lovelytheband",
+id: "1282658109",
+releaseDate: "2017-04-14",
+name: "Broken",
+collectionName: "Everything I Could Never Say... - EP",
+kind: "song",
+copyright: "℗ 2017 Another Century, a division of The Century Family Inc.",
+artistId: "1220215284",
+artistUrl: "https://itunes.apple.com/us/artist/lovelytheband/1220215284?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music118/v4/36/09/5b/36095b6b-32d3-3c6d-be1c-19b60786dd5c/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/broken/1282657568?i=1282658109&app=itunes"
+},
+{
+artistName: "Jason Aldean",
+id: "1354570160",
+releaseDate: "2018-04-13",
+name: "Drowns the Whiskey (feat. Miranda Lambert)",
+collectionName: "Rearview Town",
+kind: "song",
+copyright: "℗ 2018 Macon Music, LLC under exclusive license to Broken Bow Records",
+artistId: "63684710",
+artistUrl: "https://itunes.apple.com/us/artist/jason-aldean/63684710?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/57/bf/f7/57bff72a-0438-8010-5425-31ac56559265/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/drowns-the-whiskey-feat-miranda-lambert/1354570152?i=1354570160&app=itunes"
+},
+{
+artistName: "Luke Combs",
+id: "1376707066",
+releaseDate: "2018-05-04",
+name: "Beautiful Crazy",
+collectionName: "This One’s for You Too (Deluxe Edition)",
+kind: "song",
+copyright: "℗ 2018 River House Artists LLC, under exclusive license to Sony Music Entertainment",
+artistId: "815635315",
+artistUrl: "https://itunes.apple.com/us/artist/luke-combs/815635315?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/bd/7f/60/bd7f605f-a838-7427-8679-9b47812f41ab/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/beautiful-crazy/1376705241?i=1376707066&app=itunes"
+},
+{
+artistName: "Billie Eilish & Khalid",
+id: "1369380479",
+releaseDate: "2018-04-19",
+name: "lovely",
+collectionName: "lovely - Single",
+kind: "song",
+copyright: "℗ 2018 Darkroom/Interscope Records",
+artistId: "1065981054",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1065981054-82842423&app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/86/44/7e/86447ea9-4976-d71c-f50a-ac41011d40fd/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/lovely/1369379667?i=1369380479&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648605",
+releaseDate: "1978-11-10",
+name: "Don't Stop Me Now",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/dont-stop-me-now/932648190?i=932648605&app=itunes"
+},
+{
+artistName: "Bebe Rexha",
+id: "1370924883",
+releaseDate: "2018-06-22",
+name: "I'm a Mess",
+collectionName: "Expectations",
+kind: "song",
+copyright: "℗ 2018 Warner Bros. Records Inc.",
+artistId: "466059563",
+artistUrl: "https://itunes.apple.com/us/artist/bebe-rexha/466059563?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/91/e1/69/91e16957-4e51-44d8-129d-cccf0f47c85b/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/im-a-mess/1370924192?i=1370924883&app=itunes"
+},
+{
+artistName: "Chris Stapleton",
+id: "1293899674",
+releaseDate: "2017-12-01",
+name: "Millionaire",
+collectionName: "From A Room, Volume 2",
+kind: "song",
+copyright: "A Mercury Nashville Release;℗2017 UMG Recordings, Inc.",
+artistId: "1752134",
+artistUrl: "https://itunes.apple.com/us/artist/chris-stapleton/1752134?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/79/8a/54/798a5429-f724-7fba-8751-0021be6413ea/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/millionaire/1293899666?i=1293899674&app=itunes"
+},
+{
+artistName: "Imagine Dragons",
+id: "1411628148",
+releaseDate: "2017-05-08",
+name: "Whatever It Takes",
+collectionName: "Evolve",
+kind: "song",
+copyright: "℗ 2018 KIDinaKORNER/Interscope Records",
+artistId: "358714030",
+artistUrl: "https://itunes.apple.com/us/artist/imagine-dragons/358714030?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/92/1d/48/921d48da-0aba-8159-5820-bf4106b92fdc/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/whatever-it-takes/1411625594?i=1411628148&app=itunes"
+},
+{
+artistName: "The Chainsmokers",
+id: "1435652093",
+releaseDate: "2018-09-21",
+name: "This Feeling (feat. Kelsea Ballerini)",
+collectionName: "Sick Boy...This Feeling",
+kind: "song",
+copyright: "℗ 2018 Disruptor Records/Columbia Records",
+artistId: "580391756",
+artistUrl: "https://itunes.apple.com/us/artist/the-chainsmokers/580391756?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/00/3f/a2/003fa230-022a-2415-e91b-66b4da626c88/source/200x200bb.png",
+genres: [
+{
+genreId: "17",
+name: "Dance",
+url: "https://itunes.apple.com/us/genre/id17"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/this-feeling-feat-kelsea-ballerini/1435652086?i=1435652093&app=itunes"
+},
+{
+artistName: "Florida Georgia Line",
+id: "1430339007",
+releaseDate: "2018-06-01",
+name: "Simple",
+collectionName: "Florida Georgia Line - EP",
+kind: "song",
+copyright: "℗ 2018 Big Machine Label Group, LLC",
+artistId: "399241518",
+artistUrl: "https://itunes.apple.com/us/artist/florida-georgia-line/399241518?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/fa/af/ca/faafca9a-56e4-4c72-6df9-76b5becd410b/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/simple/1430338141?i=1430339007&app=itunes"
+},
+{
+artistName: "Ed Sheeran",
+id: "1193701400",
+releaseDate: "2017-03-03",
+name: "Perfect",
+collectionName: "÷ (Deluxe)",
+kind: "song",
+copyright: "℗ 2017 Asylum Records UK, a division of Atlantic Records UK, a Warner Music Group company.",
+artistId: "183313439",
+artistUrl: "https://itunes.apple.com/us/artist/ed-sheeran/183313439?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/ef/ca/a4/efcaa44a-517a-98e3-2353-5bff15471ed5/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+},
+{
+genreId: "10",
+name: "Singer/Songwriter",
+url: "https://itunes.apple.com/us/genre/id10"
+}
+],
+url: "https://itunes.apple.com/us/album/perfect/1193701079?i=1193701400&app=itunes"
+},
+{
+artistName: "Imagine Dragons",
+id: "1411629089",
+releaseDate: "2018-04-27",
+name: "Thunder",
+collectionName: "Evolve",
+kind: "song",
+copyright: "℗ 2018 KIDinaKORNER/Interscope Records",
+artistId: "358714030",
+artistUrl: "https://itunes.apple.com/us/artist/imagine-dragons/358714030?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/92/1d/48/921d48da-0aba-8159-5820-bf4106b92fdc/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/thunder/1411625594?i=1411629089&app=itunes"
+},
+{
+artistName: "JENNIE (from BLACKPINK)",
+id: "1441819350",
+releaseDate: "2018-11-12",
+name: "SOLO",
+collectionName: "SOLO - Single",
+kind: "song",
+copyright: "℗ 2018 YG Entertainment, distributed through Interscope Records",
+artistId: "913944",
+artistUrl: "https://itunes.apple.com/us/artist/jennie-from-blackpink/913944?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/78/18/60/7818608f-3e65-c3cd-f54a-5742dc3f3cf7/source/200x200bb.png",
+genres: [
+{
+genreId: "51",
+name: "K-Pop",
+url: "https://itunes.apple.com/us/genre/id51"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+},
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+}
+],
+url: "https://itunes.apple.com/us/album/solo/1441819348?i=1441819350&app=itunes"
+},
+{
+artistName: "Cardi B, Bad Bunny & J Balvin",
+id: "1368157211",
+releaseDate: "2018-04-06",
+name: "I Like It",
+collectionName: "Invasion of Privacy",
+kind: "song",
+copyright: "℗ 2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+artistId: "956078923",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=956078923-1126808565-444520760&app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/30/f9/52/30f952dd-d4cd-a9be-907c-d66bf19bfe23/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/i-like-it/1368156323?i=1368157211&app=itunes"
+},
+{
+artistName: "XXXTENTACION",
+id: "1441480831",
+releaseDate: "2018-11-09",
+name: "BAD",
+collectionName: "Skins",
+kind: "song",
+copyright: "℗ 2018 Bad Vibes Forever / EMPIRE",
+artistId: "1082533559",
+artistUrl: "https://itunes.apple.com/us/artist/xxxtentacion/1082533559?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/9d/fb/c4/9dfbc4fe-0f00-1a48-cec4-37fff4202d8f/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/bad/1441480826?i=1441480831&app=itunes"
+},
+{
+artistName: "Gucci Mane",
+id: "1441813285",
+releaseDate: "2018-11-15",
+name: "I'm Not Goin' (feat. Kevin Gates)",
+collectionName: "I'm Not Goin' (feat. Kevin Gates) - Single",
+kind: "song",
+copyright: "℗ 2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+artistId: "62374520",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/gucci-mane/62374520?app=itunes",
+artworkUrl100: "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/53/97/ce/5397ced8-ba6a-187d-3031-e36c6c3a6498/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/im-not-goin-feat-kevin-gates/1441813108?i=1441813285&app=itunes"
+},
+{
+artistName: "Khalid & Normani",
+id: "1334780215",
+releaseDate: "2018-02-14",
+name: "Love Lies",
+collectionName: "Love, Simon (Original Motion Picture Soundtrack)",
+kind: "song",
+copyright: "℗ This Compilation (P) 2018 RCA Records, a division of Sony Music Entertainment",
+artistId: "82842423",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=82842423-1351375726&app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/1e/78/70/1e787027-a8c9-1ca6-cb3b-e1045dc894a4/source/200x200bb.png",
+genres: [
+{
+genreId: "15",
+name: "R&B/Soul",
+url: "https://itunes.apple.com/us/genre/id15"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/love-lies/1334779517?i=1334780215&app=itunes"
+},
+{
+artistName: "Pistol Annies",
+id: "1436768135",
+releaseDate: "2018-09-27",
+name: "Got My Name Changed Back",
+collectionName: "Interstate Gospel",
+kind: "song",
+copyright: "℗ 2018 Sony Music Entertainment",
+artistId: "444036171",
+artistUrl: "https://itunes.apple.com/us/artist/pistol-annies/444036171?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/ca/52/c3/ca52c391-06c6-02f4-e1ef-b420ec64ae36/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/got-my-name-changed-back/1436768118?i=1436768135&app=itunes"
+},
+{
+artistName: "Chris Cornell",
+id: "1436558851",
+releaseDate: "2018-11-16",
+name: "Nothing Compares 2 U (Live At SiriusXM/2015)",
+collectionName: "Chris Cornell (Deluxe Edition)",
+kind: "song",
+copyright: "A Universal Music Enterprises Release; This Compilation ℗ 2018 UMG Recordings, Inc.",
+artistId: "106336",
+artistUrl: "https://itunes.apple.com/us/artist/chris-cornell/106336?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/5c/06/06/5c0606b8-362d-d968-7f39-85bc631ebe38/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/nothing-compares-2-u-live-at-siriusxm-2015/1436558289?i=1436558851&app=itunes"
+},
+{
+artistName: "Queen",
+id: "932648495",
+releaseDate: "1974-10-11",
+name: "Killer Queen",
+collectionName: "The Platinum Collection (Greatest Hits I, II & III)",
+kind: "song",
+copyright: "℗ 2014 Hollywood Records, Inc.",
+artistId: "3296287",
+artistUrl: "https://itunes.apple.com/us/artist/queen/3296287?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music1/v4/94/92/a3/9492a374-e6e3-8e92-0630-a5761070b0f7/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/killer-queen/932648190?i=932648495&app=itunes"
+},
+{
+artistName: "Billie Eilish",
+id: "1411052214",
+releaseDate: "2018-07-20",
+name: "you should see me in a crown",
+collectionName: "you should see me in a crown - Single",
+kind: "song",
+copyright: "℗ 2018 Darkroom/Interscope Records",
+artistId: "1065981054",
+artistUrl: "https://itunes.apple.com/us/artist/billie-eilish/1065981054?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/4c/db/80/4cdb80e4-79a6-dbd0-8c57-f7a2e27a91d3/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/you-should-see-me-in-a-crown/1411051571?i=1411052214&app=itunes"
+},
+{
+artistName: "The Avett Brothers",
+id: "1441603440",
+releaseDate: "2018-11-16",
+name: "Roses and Sacrifice",
+collectionName: "Roses and Sacrifice - Single",
+kind: "song",
+copyright: "℗ 2018 Republic Records, a Division of UMG Recordings, Inc. (American Recordings)",
+artistId: "62487918",
+artistUrl: "https://itunes.apple.com/us/artist/the-avett-brothers/62487918?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/84/63/23/846323dc-5d81-ccfe-7fb7-8991ab02278e/source/200x200bb.png",
+genres: [
+{
+genreId: "21",
+name: "Rock",
+url: "https://itunes.apple.com/us/genre/id21"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/roses-and-sacrifice/1441603295?i=1441603440&app=itunes"
+},
+{
+artistName: "Khalid",
+id: "1438913057",
+releaseDate: "2018-09-14",
+name: "Better",
+collectionName: "Suncity",
+kind: "song",
+copyright: "℗ 2018 RCA Records, a division of Sony Music Entertainment",
+artistId: "82842423",
+artistUrl: "https://itunes.apple.com/us/artist/khalid/82842423?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/1a/79/00/1a7900fb-c3e7-b694-60f9-702a1c64acdc/source/200x200bb.png",
+genres: [
+{
+genreId: "15",
+name: "R&B/Soul",
+url: "https://itunes.apple.com/us/genre/id15"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/better/1438912699?i=1438913057&app=itunes"
+},
+{
+artistName: "Lady Gaga & Bradley Cooper",
+id: "1434372069",
+releaseDate: "2018-10-05",
+name: "I'll Never Love Again (Film Version)",
+collectionName: "A Star Is Born Soundtrack",
+kind: "song",
+copyright: "This Compilation ℗ 2018 Interscope Records",
+artistId: "277293880",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=277293880-300300595&app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/91/d6/3791d62a-4147-3b1e-23fb-e5cbdd27a785/source/200x200bb.png",
+genres: [
+{
+genreId: "16",
+name: "Soundtrack",
+url: "https://itunes.apple.com/us/genre/id16"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/ill-never-love-again-film-version/1434371867?i=1434372069&app=itunes"
+},
+{
+artistName: "Ariana Grande",
+id: "1399202954",
+releaseDate: "2018-07-13",
+name: "God is a woman",
+collectionName: "Sweetener",
+kind: "song",
+copyright: "℗ 2018 Republic Records, a Division of UMG Recordings, Inc.",
+artistId: "412778295",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/ariana-grande/412778295?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/eb/45/1d/eb451db3-53c9-5ba5-ba44-b059be004d29/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/god-is-a-woman/1399202539?i=1399202954&app=itunes"
+},
+{
+artistName: "Tyga",
+id: "1384304787",
+releaseDate: "2018-05-16",
+name: "Taste (feat. Offset)",
+collectionName: "Taste (feat. Offset) - Single",
+kind: "song",
+copyright: "℗ 2018 Last Kings Music / EMPIRE",
+artistId: "268893121",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/tyga/268893121?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/9d/ec/59/9dec59db-6010-e366-6c78-1ec97d1c5327/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/taste-feat-offset/1384304786?i=1384304787&app=itunes"
+},
+{
+artistName: "Luke Bryan",
+id: "1291596953",
+releaseDate: "2017-10-06",
+name: "What Makes You Country",
+collectionName: "What Makes You Country",
+kind: "song",
+copyright: "A Capitol Records Nashville Release;℗2017 UMG Recordings, Inc.",
+artistId: "20131064",
+artistUrl: "https://itunes.apple.com/us/artist/luke-bryan/20131064?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/e7/ac/04/e7ac04ff-77c7-4ca8-3ea4-9c7f346d5ad2/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/what-makes-you-country/1291596952?i=1291596953&app=itunes"
+},
+{
+artistName: "Mumford & Sons",
+id: "1436533160",
+releaseDate: "2018-09-20",
+name: "Guiding Light",
+collectionName: "Delta",
+kind: "song",
+copyright: "℗ 2018 Mumford & Sons, under exclusive license to Glassnote Entertainment Group LLC",
+artistId: "307699986",
+artistUrl: "https://itunes.apple.com/us/artist/mumford-sons/307699986?app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/ea/1b/73/ea1b7368-ab0b-a451-604e-970805cb5de5/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/guiding-light/1436532915?i=1436533160&app=itunes"
+},
+{
+artistName: "Backstreet Boys",
+id: "1441172038",
+releaseDate: "2018-11-09",
+name: "Chances",
+collectionName: "DNA",
+kind: "song",
+copyright: "℗ 2018 K-Bahn, LLC & RCA Records, a division of Sony Music Entertainment",
+artistId: "217039",
+artistUrl: "https://itunes.apple.com/us/artist/backstreet-boys/217039?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/6f/08/a8/6f08a8d7-c1af-9a0d-a489-4ccdab6fbe81/source/200x200bb.png",
+genres: [
+{
+genreId: "14",
+name: "Pop",
+url: "https://itunes.apple.com/us/genre/id14"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/chances/1441172028?i=1441172038&app=itunes"
+},
+{
+artistName: "Jason Aldean",
+id: "1354570156",
+releaseDate: "2018-04-13",
+name: "Girl Like You",
+collectionName: "Rearview Town",
+kind: "song",
+copyright: "℗ 2018 Macon Music, LLC under exclusive license to Broken Bow Records",
+artistId: "63684710",
+artistUrl: "https://itunes.apple.com/us/artist/jason-aldean/63684710?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/57/bf/f7/57bff72a-0438-8010-5425-31ac56559265/source/200x200bb.png",
+genres: [
+{
+genreId: "6",
+name: "Country",
+url: "https://itunes.apple.com/us/genre/id6"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/girl-like-you/1354570152?i=1354570156&app=itunes"
+},
+{
+artistName: "Lil Baby & Gunna",
+id: "1435920287",
+releaseDate: "2018-09-12",
+name: "Drip Too Hard",
+collectionName: "Drip Too Hard - Single",
+kind: "song",
+copyright: "Quality Control Music/Young Stoner Life Records, a 300 Entertainment Label/Motown Records/Capitol Records; ℗ 2018 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.",
+artistId: "1276656483",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1276656483-1236267297&app=itunes",
+artworkUrl100: "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/a0/f3/8f/a0f38f1e-996a-03d2-7729-4818306df73a/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/drip-too-hard/1435920094?i=1435920287&app=itunes"
+},
+{
+artistName: "Imagine Dragons",
+id: "1411628233",
+releaseDate: "2017-02-01",
+name: "Believer",
+collectionName: "Evolve",
+kind: "song",
+copyright: "℗ 2018 KIDinaKORNER/Interscope Records",
+artistId: "358714030",
+artistUrl: "https://itunes.apple.com/us/artist/imagine-dragons/358714030?app=itunes",
+artworkUrl100: "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/92/1d/48/921d48da-0aba-8159-5820-bf4106b92fdc/source/200x200bb.png",
+genres: [
+{
+genreId: "20",
+name: "Alternative",
+url: "https://itunes.apple.com/us/genre/id20"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/believer/1411625594?i=1411628233&app=itunes"
+},
+{
+artistName: "Bradley Cooper",
+id: "1434371882",
+releaseDate: "2018-10-05",
+name: "Maybe It's Time",
+collectionName: "A Star Is Born Soundtrack",
+kind: "song",
+copyright: "This Compilation ℗ 2018 Interscope Records",
+artistId: "300300595",
+artistUrl: "https://itunes.apple.com/us/artist/bradley-cooper/300300595?app=itunes",
+artworkUrl100: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/37/91/d6/3791d62a-4147-3b1e-23fb-e5cbdd27a785/source/200x200bb.png",
+genres: [
+{
+genreId: "16",
+name: "Soundtrack",
+url: "https://itunes.apple.com/us/genre/id16"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/maybe-its-time/1434371867?i=1434371882&app=itunes"
+},
+{
+artistName: "Keala Settle & The Greatest Showman Ensemble",
+id: "1299856916",
+releaseDate: "2017-12-08",
+name: "This Is Me",
+collectionName: "The Greatest Showman (Original Motion Picture Soundtrack)",
+kind: "song",
+copyright: "℗ 2017 This compilation Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. Motion Picture Artwork, Photos, and Fox Trademarks and Logos TM and © 2017 Twentieth Century Fox Film Corporation.",
+artistId: "268060762",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=268060762-1299844941&app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/88/1a/c9/881ac94b-8c34-29d6-8444-fbbde7ba5cd8/source/200x200bb.png",
+genres: [
+{
+genreId: "16",
+name: "Soundtrack",
+url: "https://itunes.apple.com/us/genre/id16"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/this-is-me/1299856714?i=1299856916&app=itunes"
+},
+{
+artistName: "Mike WiLL Made-It, A$AP Rocky, A$AP Ferg & Nicki Minaj",
+id: "1441989357",
+releaseDate: "2018-11-16",
+name: "Runnin",
+collectionName: "Creed II: The Album",
+kind: "song",
+copyright: "℗ 2018 Eardruma Records/Interscope Records",
+artistId: "511333957",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=511333957-1365981210-582346993-278464538&app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/1f/c5/bb/1fc5bb02-bed2-f728-defd-4b48e19638f7/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/runnin/1441989125?i=1441989357&app=itunes"
+},
+{
+artistName: "Pardison Fontaine",
+id: "1436358196",
+releaseDate: "2018-09-20",
+name: "Backin' It Up (feat. Cardi B)",
+collectionName: "Backin' It Up (feat. Cardi B) - Single",
+kind: "song",
+copyright: "℗ 2018 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States. A Warner Music Group Company",
+artistId: "839277664",
+contentAdvisoryRating: "Explicit",
+artistUrl: "https://itunes.apple.com/us/artist/pardison-fontaine/839277664?app=itunes",
+artworkUrl100: "https://is5-ssl.mzstatic.com/image/thumb/Music128/v4/d1/2b/52/d12b52f0-78a8-07bc-ae57-b42d3ccaab85/source/200x200bb.png",
+genres: [
+{
+genreId: "18",
+name: "Hip-Hop/Rap",
+url: "https://itunes.apple.com/us/genre/id18"
+},
+{
+genreId: "34",
+name: "Music",
+url: "https://itunes.apple.com/us/genre/id34"
+}
+],
+url: "https://itunes.apple.com/us/album/backin-it-up-feat-cardi-b/1436358191?i=1436358196&app=itunes"
+}
+]
+}
+}

@@ -1,0 +1,33 @@
+.dot {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  padding: 4px;
+
+}
+.red {
+  background-color: #EE5C54;
+
+}
+.yellow {
+  background-color: #F8BD45;
+
+}
+.green {
+  background-color: #5ECA42;
+}
+.playlists {
+
+  height: 100%;
+
+  display: flex;
+
+
+}
+.lists {
+  color: #575757;
+  padding-top: 56px;
+  width: 18%;
+
+}

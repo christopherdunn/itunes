@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import SongsIndex from '../components/SongsIndex'
-const SONGSAPI = 'https://rss.itunes.apple.com/api/v1/us/itunes-music/top-songs/all/100/explicit.json'
+const SONGSAPI = 'https://itunes.apple.com/us/rss/topsongs/all/limit=100/json'
 
 class songs extends Component {
   constructor(props){
@@ -13,7 +13,7 @@ componentDidMount(){
   fetch(SONGSAPI)
   .then(response => response.json())
   .then(data => this.setState({
-    songs: data.feed.results,
+    songs: data.feed.entry,
   }));
 }
   render() {

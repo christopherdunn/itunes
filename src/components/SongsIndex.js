@@ -8,9 +8,9 @@ const SongsIndex = props => {
       <li><SongTile
         key={song.id}
         id={song.id}
-        name={song.name}
-        artist={song.artistName}
-        album={song.collectionName}
+        name={song['im:name']['label']}
+        artist={song['im:artist']['label']}
+        album={song['im:collection']['im:name']['label']}
       /></li>
     )
   })

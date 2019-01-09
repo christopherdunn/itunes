@@ -7,6 +7,7 @@ class songs extends Component {
   super(props);
   this.state ={
     songs:[]
+    
   }
 }
 componentDidMount(){
@@ -22,6 +23,7 @@ componentDidMount(){
 
       <SongsIndex
         songs={this.state.songs}
+
       />
       </div>
     );

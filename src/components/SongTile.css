@@ -4,6 +4,7 @@
 
 
 }
+
 .tile li:nth-child(even){
    background-color: #F0F5F8;
 }
@@ -12,11 +13,11 @@
 }
 .listitems {
   padding: 0 1rem;
-  width: 205px;
+  width: 33%;
   color: black;
   overflow: hidden;
   white-space: nowrap;
-  text-overflow:ellipsis;
+  text-overflow: clip ellipsis;
 
 }
 .listitems:hover {

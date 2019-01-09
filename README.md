@@ -8,4 +8,5 @@ Have the page display the Top 100 explicit songs from iTunes downloads.
 
 To run:
 1. Download the repo
-2. yarn start and you're off and running.
+2. Run `yarn install`
+3. Run `yarn start` and you're off and running.
